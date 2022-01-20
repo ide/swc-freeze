@@ -1,2 +1,2 @@
 # swc-freeze
-Reproducible demo of SWC 
+Reproducible demo of SWC freezing
