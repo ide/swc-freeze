@@ -1,0 +1,8 @@
+{
+  "jsc": {
+    "paths": {
+      "hello": ["world"]
+    },
+    "baseUrl": "./src"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "swc-freeze",
+  "version": "1.0.0",
+  "description": "Reproducible demo of SWC freezing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ide/swc-freeze.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ide/swc-freeze/issues"
+  },
+  "homepage": "https://github.com/ide/swc-freeze#readme",
+  "devDependencies": {
+    "@swc/cli": "^0.1.55",
+    "@swc/core": "^1.2.131"
+  },
+  "dependencies": {
+    "jszip": "3.5.0"
+  }
+}
